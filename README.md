@@ -7,7 +7,6 @@ Questo repository ospita il codice del sito dell'OC Informatica del Liceo di Bel
 
 ## L'autore
 <h3 style="text-align: justify;">Presentazione</h3>
- <br><br>
 <p style="text-align: justify;">L'autore del presente sito internet &egrave;&nbsp;<strong>Niccol&ograve; Cavallini</strong>, studente del Liceo di Bellinzona da settembre 2017 a giugno 2021.</p>
 <p style="text-align: justify;">Appassionato di Informatica, ha frequentato le lezioni dell'Opzione Complementare Informatica, di cui questo sito &egrave; mezzo di presentazione e gestione.</p>
 <p style="text-align: justify;">Il progetto &egrave; nato dalla volont&agrave; di rinnovare il vecchio sito, realizzato una decina di anni or sono dal Prof. Claudio Arrivoli, docente di Chimica e Informatica. Le caratteristiche fondamentali di questo nuovo sito sono:</p>
@@ -42,3 +41,6 @@ Questo repository ospita il codice del sito dell'OC Informatica del Liceo di Bel
 
 ## Donazione
 La creazione di questo sito ha richiesto decine di ore di lavoro; per questo motivo, se il sito ti aggrada, considera una piccola donazione.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](n.cavallini@bluewin.ch)
+
