@@ -6,8 +6,6 @@ Questo repository ospita il codice del sito dell'OC Informatica del Liceo di Bel
 [Vai al codice](https://github.com/ncavallini/ocinfo_libe/releases/)
 
 ## L'autore
-
-<br>
 <h3 style="text-align: justify;">Presentazione</h3>
  <br><br>
 <p style="text-align: justify;">L'autore del presente sito internet &egrave;&nbsp;<strong>Niccol&ograve; Cavallini</strong>, studente del Liceo di Bellinzona da settembre 2017 a giugno 2021.</p>
@@ -36,7 +34,6 @@ Questo repository ospita il codice del sito dell'OC Informatica del Liceo di Bel
 <ul class="list-none list-noindent">
   <li><a href="mailto:n.cavallini@bluewin.ch" class="btn btn-outline-primary link"><i class="fas fa-envelope"></i> E-mail</a></li>
   <li><a href="https://wa.me/41797419097" class="btn btn-outline-primary link"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
-  <li><a href="tel:+41797419097" class="btn btn-outline-primary link"><i class="fas fa-phone"></i> Chiama</a></li>
   <li><a href="https://www.facebook.com/niccolo.cavallini.3" class="btn btn-outline-primary link"><i class="fab fa-facebook"></i> Facebook</a></li>
   <li><a href="https://www.instagram.com/niccolocavallini/" class="btn btn-outline-primary link"><i class="fab fa-instagram"></i> Instagram</a></li>
   <li><a href="https://www.linkedin.com/in/niccol%C3%B2-cavallini-240993182/" class="btn btn-outline-primary link"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
