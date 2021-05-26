@@ -41,6 +41,6 @@ Questo repository ospita il codice del sito dell'OC Informatica del Liceo di Bel
 
 ## Donazione
 La creazione di questo sito ha richiesto decine di ore di lavoro; per questo motivo, se il sito ti aggrada, considera una piccola donazione.
-
+<button>Ciao</button>
 [Dona](https://www.paypal.com/donate?hosted_button_id=N4RZ5FBE9W44U&source=url)
 
